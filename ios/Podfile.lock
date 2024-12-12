@@ -69,6 +69,6 @@ SPEC CHECKSUMS:
   shared_preferences_foundation: fcdcbc04712aee1108ac7fda236f363274528f78
   sqflite_darwin: a553b1fd6fe66f53bbb0fe5b4f5bab93f08d7a13
 
-PODFILE CHECKSUM: e5493faad3fc3f6c4525cb64f2dced6c8b8742ad
+PODFILE CHECKSUM: cd5b27c482ceee9778343f225dce9f2e1efabee5
 
-COCOAPODS: 1.15.2
+COCOAPODS: 1.16.2
