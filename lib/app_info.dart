@@ -13,8 +13,8 @@ abstract final class AppInfo {
   static const String appVersion = "1.0.0";
   static const int appBuildVersion = 1;
 
-  static const bool isDebugMode = false;
-  // static const bool isDebugMode = kDebugMode;
+  // static const bool isDebugMode = false;
+  static const bool isDebugMode = kDebugMode;
 
   /// default the work start at 9:00 am
   static const TimeOfDay workStartTime = TimeOfDay(hour: 9, minute: 0);
